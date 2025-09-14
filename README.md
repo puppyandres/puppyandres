@@ -19,8 +19,8 @@ Me encanta aprender, experimentar con nuevas herramientas y compartir conocimien
 ---
 
 ## 🎓 Formación y Cursos
-- Máster en Profesorado (especialidad Matemáticas).  
-- Grado Superior en Desarrollo de Aplicaciones Web 💻.  
+- Máster en Profesorado (especialidad Matemáticas).
+- Grado en Ingeniería Electrónica Industrial y Automática.
 - Formación continua en **Docker, Nginx, MongoDB, Node.js, Godot Engine (2D/3D), Realidad Virtual y Gamificación**.  
 - Participación en proyectos de innovación educativa con tecnologías emergentes.  
 
